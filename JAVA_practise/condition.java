@@ -1,3 +1,4 @@
+package JAVA_practise;
 import java.util.Scanner;
 
 public class condition {
