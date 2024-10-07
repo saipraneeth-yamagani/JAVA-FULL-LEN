@@ -6,7 +6,7 @@ public class functions {
     public static void main(String[] args) {
         
             fun("saikiran", 5);
-            fun("sanjuu", 4);
+            fun("sanjuu", 5);
 
 
     }
