@@ -1,5 +1,4 @@
 package JAVA_practise;
-// import java.util.*;
 public class arrays {
     public static void main(String[] args)
     {
@@ -14,7 +13,6 @@ public class arrays {
         // {
         //     System.out.println(i);
         // }
-
         // sc.close();
     }
     

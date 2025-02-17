@@ -8,12 +8,11 @@ public class forloop {
         // System.out.println("Enter a number: ");
         // int number = sc.nextInt();
 
-        for (int i = 0; i <=5; i++) {
+        for (int i = 0; i<=5; i++) 
+        {
             System.out.println(i);
             System.out.println("Sai praneeth");
         }
-
-
 
         // sc.close();
     }
