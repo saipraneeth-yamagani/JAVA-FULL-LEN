@@ -1,4 +1,4 @@
-package JAVA_practise.JAVA_practise.OOP_JAVA - JAVA.OOP - JAVA;
+package oops_j23 - JAVA.OOP - JAVA;
 
 public class objectsOOP {
 // Java program to demonstrate the use of objects 

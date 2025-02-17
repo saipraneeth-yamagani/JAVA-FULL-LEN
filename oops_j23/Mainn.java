@@ -1,4 +1,4 @@
-package JAVA_practise.OOP_JAVA;
+package oops_j23;
 
 public class Mainn { // Parent class
 

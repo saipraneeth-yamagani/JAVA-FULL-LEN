@@ -1,4 +1,4 @@
-package JAVA_practise.JAVA_practise.OOP_JAVA;
+package oops_j23;
 
  interface MULTI_INTERFACE {
     public void carspeed();

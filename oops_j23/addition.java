@@ -1,4 +1,4 @@
-package JAVA_practise;
+package oops_j23;
 public class addition {
     public static void main(String[] args) {
         int a = 10;

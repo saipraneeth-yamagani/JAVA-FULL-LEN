@@ -1,4 +1,4 @@
-package JAVA_practise.JAVA_practise.OOP_JAVA;
+package oops_j23;
 // abstract class
 abstract class abstracTT {
         public abstract void animalSound();

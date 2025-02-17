@@ -1,5 +1,5 @@
-package JAVA_practise.JAVA_practise.OOP_JAVA;
-public class addition {
+package JAVA_practise;
+public class addition1 {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
